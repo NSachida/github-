@@ -8,4 +8,4 @@ And non-profit organisation
 # social links
 twitter_username: your-twitter-handle # SalisNuruddeen
 github_username:  your-github-handle # Nsachida
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false
