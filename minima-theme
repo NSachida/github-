@@ -1,11 +1,17 @@
-minima: theme: minima
-author: Nuruddeen Salis
-email: nuruddeensalis@yahoo.com
-description: > # this is Nuruddeen The Light NG's Github blog
+minima:theme:minima
+
+author:Nuruddeen Salis
+
+email:nuruddeensalis@yahoo.com
+
+description:> # this is Nuruddeen The Light NG's Github blog
 Nuruddeen The Light NG is a sokoto based businesses consultancy,
 And non-profit organisation 
 
 # social links
+
 twitter_username: your-twitter-handle # SalisNuruddeen
+
 github_username:  your-github-handle # Nsachida
+
 show_excerpts: false
