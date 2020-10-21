@@ -1,4 +1,8 @@
-title: theme: **minima**
+>gem "minimal
+
+>theme: minima
+
+>$ bundle
 author: Nuruddeen Salis
 email: nuruddeensalis@yahoo.com
 description: > # this is Nuruddeen The Light NG's Github blog
