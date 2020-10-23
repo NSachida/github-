@@ -1,3 +1,5 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about documentation & markdowns
+---
+theme: minima
+title: welcome to "Nsachida's blog"
+date: 2020-10-23
+---
