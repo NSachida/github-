@@ -3,7 +3,7 @@ theme: minima
 
 I'm glad you are here. I plan to talk about documentation & markdowns
 
-title: "welcome to Nsachida's blog post"
+title: "welcome-to-Nsachida's-blog-post"
 author: Nuruddeen Salis 
 email: nuruddeensalis@yahoo.com 
 description: > # this means to ignore newlines until "baseurl:"
@@ -14,5 +14,5 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: SalisNuruddeen 
 github_username:  Nsachida
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true #
 
